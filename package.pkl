@@ -1,0 +1,14 @@
+(dp0
+S'to'
+p1
+(lp2
+S'/root/Documents/scripts'
+p3
+asS'from'
+p4
+g3
+sS'dataSet'
+p5
+S'hello'
+p6
+s.
